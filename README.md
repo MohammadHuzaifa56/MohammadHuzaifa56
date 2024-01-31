@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dil Ka Rishta](https://play.google.com/store/search?q=dil+ka+rishta)
 
-- 🌱 I’m currently learning **KMM & Ktor**
+- 🌱 I’m currently learning **KMP & Ktor**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadHuzaifa56?tab=repositories](https://github.com/MohammadHuzaifa56?tab=repositories)
 
