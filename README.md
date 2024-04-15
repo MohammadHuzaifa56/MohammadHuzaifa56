@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammadHuzaifa56?tab=repositories](https://github.com/MohammadHuzaifa56?tab=repositories)
 
-- 💬 Ask me about **Android, Jetpack, Kotlin, Java**
+- 💬 Ask me about **Android, KMP, Jetpack, Kotlin, Java**
 
 - 📫 How to reach me **huzaifarasheed56@gmail.com**
-
-- ⚡ Fun fact **I think ???**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
