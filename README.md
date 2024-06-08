@@ -3,7 +3,7 @@
 <h3 align="center">An Android Engineer From Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Dil Ka Rishta](https://play.google.com/store/search?q=dil+ka+rishta)
+- 🔭 I’m currently working on [Instazoo KMP App](https://github.com/MohammadHuzaifa56/Instazoo)
 
 - 🌱 I’m currently learning **KMP & Ktor**
 
@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **huzaifarasheed56@gmail.com**
 
+- ⚡️ Fun fact **I code faster than my coffee machine brews!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/m_huzaifa_writes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_huzaifa_writes" height="30" width="40" /></a>
